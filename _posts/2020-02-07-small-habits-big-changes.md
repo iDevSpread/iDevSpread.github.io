@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Small Habits, Big Changes'
 ---
 # 小习惯，大改变
@@ -176,4 +176,3 @@ James建议我们在一开始的时候，就多做一些探索，然后确定之
 ## 推荐阅读
 1. [《Game Changer》](https://www.amazon.com/Game-Changers-Leaders-Innovators-Mavericks-ebook/dp/B077XG39QR)，一些非常有看头儿的书，里面分享的想法、习惯和工具，都非常给力。[image:38E14C5A-FD68-4068-9585-77951CD860B2-427-0000EDD729BBCFB6/51vbjZyG-kL.jpg]
 2. [The Talent Code](https://www.amazon.com/Talent-Code-Greatness-Born-Grown/dp/055380684X),  阅读完这本书就会发现一些关于天赋的秘密，在教孩子的过程中，真的是如何培养孩子，就很有意思了。[image:0D775029-BF12-4B4C-A7D0-9A08172EAD37-427-0000EDD9F225652C/51hgIdKy1UL._SX332_BO1,204,203,200_.jpg]
-
