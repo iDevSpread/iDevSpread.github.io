@@ -6,7 +6,8 @@ title: 'Small Habits, Big Changes'
 # 小习惯，大改变
 > Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
 > by James Clear
-[image:26F182D0-401D-4809-A8F1-405B3F663471-427-000003E0ADB2ADB9/513Y5o-DYtL._SX342_.jpg]
+![513Y5o-DYtL._SX342_.jpg]({{site.baseurl}}/img/513Y5o-DYtL._SX342_.jpg)
+
 
 在这里先跟大家说一声新年快乐，趁着武汉这次封城事件，给大家分享一个我自己的看法：*不信谣，不造谣，不传播。* 对于这次封城带来的不可预测的后果（其实大概率给很多企业带来相当大麻烦，影响很大），可以真正让我们看看“拍脑门子”的决策，到底给我们P珉带来多大的影响。我们且来看看一个月之后的武汉是什么样。祝福武汉～～
 
